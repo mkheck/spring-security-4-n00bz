@@ -8,9 +8,9 @@
 
 == Purpose
 
-This meta-repo accompanies my session titled "Spring Security for N00bz: A quick introduction for the terminally insecure" and points to repositories containing code written within the session.
+This meta-repo accompanies my session titled "Spring Security for N00bz: A quick introduction for the terminally insecure" and points to repos containing code written within the session.
 
-== Notes
+== Individual repositories
 
 * https://github.com/mkheck/ssec-forms[Project repo using forms-based security with username/password authentication, authorization]
 * https://github.com/mkheck/ssec-oidc[Project repo for login service using OpenID Connect for authentication/OAuth2 for authorization]
