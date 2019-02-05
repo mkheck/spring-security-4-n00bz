@@ -1,4 +1,4 @@
-= Spring Security 4 N00bz
+= Spring Security for N00bz: A quick introduction for the terminally insecure
 
 == Maintainer
 
@@ -8,7 +8,7 @@
 
 == Purpose
 
-This meta-repo accompanies my session titled "Spring Security 4 N00bz" and points to repositories containing code written within the session.
+This meta-repo accompanies my session titled "Spring Security for N00bz: A quick introduction for the terminally insecure" and points to repositories containing code written within the session.
 
 == Notes
 
@@ -18,4 +18,4 @@ This meta-repo accompanies my session titled "Spring Security 4 N00bz" and point
 
 == Related presentation
 
-https://speakerdeck.com/mkheck/spring-security-for-n00bz-a-quick-introduction-for-the-terminally-insecure[Spring Security 4 N00bz presentation]
+https://speakerdeck.com/mkheck/spring-security-for-n00bz-a-quick-introduction-for-the-terminally-insecure["Spring Security for N00bz: A quick introduction for the terminally insecure" presentation]
