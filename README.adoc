@@ -12,9 +12,9 @@ This meta-repo accompanies my session titled "Spring Security for N00bz: A quick
 
 == Notes
 
-* https://github.com/mkheck/ssec-forms[Example using forms-based security with username/password authentication, authorization]
-* https://github.com/mkheck/ssec-oidc[Login service example using OpenID Connect for authentication/OAuth2 for authorization]
-* https://github.com/mkheck/ssec-resource[Resource server example leveraging bearer tokens/JSON Web Tokens (JWT)]
+* https://github.com/mkheck/ssec-forms[Project repo using forms-based security with username/password authentication, authorization]
+* https://github.com/mkheck/ssec-oidc[Project repo for login service using OpenID Connect for authentication/OAuth2 for authorization]
+* https://github.com/mkheck/ssec-resource[Project repo for resource server leveraging bearer tokens/JSON Web Tokens (JWT)]
 
 == Related presentation
 
